@@ -1,5 +1,10 @@
 # Meletaris
 
-Public downloads and release notes for Meletaris.
+Public updates and downloads for Meletaris.
 
-When a release is available, installers and release notes will be published on the [Releases page](https://github.com/JackHWaters/Meletaris-downloads/releases).
+- **Downloads and release notes:** [GitHub Releases](https://github.com/JackHWaters/Meletaris-downloads/releases)
+- **Change history:** [CHANGELOG.md](CHANGELOG.md)
+
+Each release should include a version, user-facing release notes, and tested installer files. The application source is maintained separately and is not published in this repository.
+
+To follow new versions, use **Watch → Custom → Releases** on this repository.
